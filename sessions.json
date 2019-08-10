@@ -1,0 +1,2774 @@
+{
+  "sessions": [
+    {
+      "startedAt": "10/18/2015 22:11:28",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/19/2015 21:17:46",
+      "duration": "30:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/19/2015 21:49:51",
+      "duration": "1:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/27/2015 20:22:37",
+      "duration": "3:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/27/2015 20:26:01",
+      "duration": "3:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/15/2016 22:05:02",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/15/2016 22:11:57",
+      "duration": "0:10",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/19/2016 22:31:56",
+      "duration": "7:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/21/2017 20:51:05",
+      "duration": "6:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/21/2017 21:02:30",
+      "duration": "0:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/21/2017 21:03:24",
+      "duration": "13:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/22/2017 20:40:02",
+      "duration": "12:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/23/2017 20:24:51",
+      "duration": "12:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/26/2017 16:21:48",
+      "duration": "15:40",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/3/2017 21:14:07",
+      "duration": "15:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/16/2017 16:29:59",
+      "duration": "20:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/11/2017 22:21:33",
+      "duration": "14:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/12/2017 23:08:28",
+      "duration": "5:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/14/2017 19:45:30",
+      "duration": "5:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/5/2017 21:31:55",
+      "duration": "5:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/8/2017 20:14:32",
+      "duration": "12:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/9/2017 21:31:29",
+      "duration": "10:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/10/2017 22:46:55",
+      "duration": "10:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/12/2017 20:03:29",
+      "duration": "10:10",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/27/2017 20:42:36",
+      "duration": "16:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/1/2017 0:41:17",
+      "duration": "16:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/1/2017 23:51:37",
+      "duration": "5:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/2/2017 21:16:56",
+      "duration": "7:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/4/2017 0:19:32",
+      "duration": "6:26",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/7/2017 19:57:50",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/22/2017 1:11:54",
+      "duration": "8:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/23/2017 0:07:25",
+      "duration": "10:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/25/2017 0:01:13",
+      "duration": "14:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/5/2017 0:01:53",
+      "duration": "12:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/5/2017 22:39:45",
+      "duration": "13:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/6/2017 22:49:06",
+      "duration": "5:54",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/9/2017 0:32:51",
+      "duration": "8:10",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/9/2017 0:42:25",
+      "duration": "5:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/11/2017 1:38:30",
+      "duration": "10:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/12/2017 0:36:44",
+      "duration": "12:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/12/2017 23:46:44",
+      "duration": "11:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/14/2017 23:15:12",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/25/2017 20:43:13",
+      "duration": "6:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/27/2017 0:31:24",
+      "duration": "10:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/27/2017 21:09:01",
+      "duration": "5:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/28/2017 21:51:10",
+      "duration": "11:03",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/9/2017 19:33:12",
+      "duration": "10:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/20/2017 23:44:46",
+      "duration": "8:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/21/2017 23:43:29",
+      "duration": "10:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/22/2017 20:58:53",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/23/2017 23:06:37",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/23/2017 23:17:26",
+      "duration": "4:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/24/2017 8:47:44",
+      "duration": "4:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/24/2017 23:37:16",
+      "duration": "10:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/25/2017 9:15:20",
+      "duration": "4:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/26/2017 23:03:47",
+      "duration": "9:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/27/2017 22:56:00",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/1/2018 22:53:11",
+      "duration": "18:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/2/2018 23:11:47",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/3/2018 23:23:48",
+      "duration": "5:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/4/2018 0:09:19",
+      "duration": "7:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/4/2018 23:24:20",
+      "duration": "3:07",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/7/2018 22:40:02",
+      "duration": "6:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/8/2018 23:07:44",
+      "duration": "4:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/10/2018 21:55:43",
+      "duration": "7:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/13/2018 22:41:25",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/14/2018 10:28:22",
+      "duration": "8:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/14/2018 22:56:28",
+      "duration": "7:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/15/2018 23:51:44",
+      "duration": "8:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/16/2018 23:21:39",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/17/2018 23:03:21",
+      "duration": "5:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/18/2018 23:25:00",
+      "duration": "8:30",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/19/2018 22:51:32",
+      "duration": "8:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/20/2018 23:30:49",
+      "duration": "7:46",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/21/2018 21:43:40",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/22/2018 23:50:15",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/23/2018 23:20:00",
+      "duration": "8:30",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/25/2018 23:21:00",
+      "duration": "9:35",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/26/2018 23:59:20",
+      "duration": "11:40",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/27/2018 23:25:47",
+      "duration": "11:39",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/28/2018 23:19:00",
+      "duration": "9:40",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/29/2018 23:04:30",
+      "duration": "13:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/30/2018 22:20:47",
+      "duration": "15:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/3/2018 22:16:46",
+      "duration": "12:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/4/2018 23:00:51",
+      "duration": "18:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/5/2018 23:07:59",
+      "duration": "8:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/13/2018 23:18:55",
+      "duration": "10:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/14/2018 23:18:00",
+      "duration": "3:30",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "6/17/2018 22:17:42",
+      "duration": "4:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/17/2018 23:18:22",
+      "duration": "7:42",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/18/2018 23:07:58",
+      "duration": "15:41",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/19/2018 23:04:12",
+      "duration": "10:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/27/2018 23:17:46",
+      "duration": "9:52",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/2/2018 23:45:06",
+      "duration": "9:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/3/2018 23:53:14",
+      "duration": "2:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/10/2018 23:32:50",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/12/2018 8:37:56",
+      "duration": "6:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/15/2018 23:47:09",
+      "duration": "8:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/16/2018 23:45:41",
+      "duration": "11:14",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/18/2018 23:07:25",
+      "duration": "10:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/21/2018 22:24:33",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/23/2018 22:22:04",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/24/2018 8:23:08",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/24/2018 21:24:43",
+      "duration": "11:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/25/2018 11:04:40",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/25/2018 21:18:28",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/26/2018 9:31:20",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/26/2018 22:09:12",
+      "duration": "11:40",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/27/2018 10:55:47",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/27/2018 14:15:26",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/27/2018 17:05:49",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/27/2018 22:06:04",
+      "duration": "5:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/28/2018 11:22:32",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/28/2018 20:32:23",
+      "duration": "0:13",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/29/2018 15:21:16",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/29/2018 20:50:42",
+      "duration": "10:39",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/30/2018 1:00:47",
+      "duration": "8:06",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/30/2018 22:06:25",
+      "duration": "16:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/31/2018 22:36:24",
+      "duration": "11:54",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/1/2018 23:53:28",
+      "duration": "14:16",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/2/2018 23:09:44",
+      "duration": "16:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/3/2018 21:18:53",
+      "duration": "16:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/4/2018 22:16:32",
+      "duration": "14:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/5/2018 23:15:53",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/6/2018 22:04:14",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/7/2018 22:42:34",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/8/2018 21:49:34",
+      "duration": "14:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/9/2018 20:42:35",
+      "duration": "12:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "8/12/2018 3:20:46",
+      "duration": "8:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/20/2018 21:19:42",
+      "duration": "8:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/22/2018 20:25:39",
+      "duration": "7:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/23/2018 12:03:26",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/27/2018 20:55:31",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/1/2018 22:37:26",
+      "duration": "6:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/1/2018 22:39:00",
+      "duration": "8:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/2/2018 21:59:26",
+      "duration": "12:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/3/2018 21:16:45",
+      "duration": "9:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/4/2018 22:11:07",
+      "duration": "12:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/5/2018 20:24:30",
+      "duration": "14:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/6/2018 5:13:26",
+      "duration": "12:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/7/2018 13:22:43",
+      "duration": "50:41:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/8/2018 17:17:47",
+      "duration": "48:15:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/8/2018 19:48:01",
+      "duration": "9:28",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/9/2018 17:43:41",
+      "duration": "40:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/10/2018 20:02:42",
+      "duration": "12:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/11/2018 15:18:03",
+      "duration": "25:46:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/12/2018 14:56:30",
+      "duration": "47:57:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/13/2018 17:50:53",
+      "duration": "56:17:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/15/2018 9:06:08",
+      "duration": "7:16",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/15/2018 12:03:11",
+      "duration": "19:03",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/15/2018 22:32:21",
+      "duration": "0:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/15/2018 22:33:58",
+      "duration": "13:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/16/2018 11:44:40",
+      "duration": "15:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/16/2018 20:54:32",
+      "duration": "8:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/17/2018 13:32:44",
+      "duration": "14:31",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/17/2018 16:42:42",
+      "duration": "32:35:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/17/2018 19:14:56",
+      "duration": "22:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/17/2018 21:31:20",
+      "duration": "11:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/18/2018 8:14:41",
+      "duration": "9:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/18/2018 13:32:13",
+      "duration": "10:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/18/2018 13:42:57",
+      "duration": "6:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/18/2018 18:55:08",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/18/2018 19:46:43",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/19/2018 12:33:53",
+      "duration": "31:43:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/19/2018 18:37:01",
+      "duration": "18:06",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/20/2018 16:09:30",
+      "duration": "42:47:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/21/2018 15:13:24",
+      "duration": "15:46",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/21/2018 20:46:32",
+      "duration": "15:15",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/22/2018 19:56:22",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/23/2018 11:00:09",
+      "duration": "30:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/23/2018 20:36:32",
+      "duration": "17:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/24/2018 5:00:48",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/24/2018 12:17:56",
+      "duration": "16:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/24/2018 20:21:26",
+      "duration": "13:11",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/25/2018 13:37:09",
+      "duration": "15:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/25/2018 17:48:03",
+      "duration": "37:05:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/26/2018 9:27:48",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/26/2018 13:50:06",
+      "duration": "16:39",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/26/2018 14:10:03",
+      "duration": "16:57",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/26/2018 19:57:41",
+      "duration": "9:55",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "9/27/2018 5:10:32",
+      "duration": "9:17",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/27/2018 8:51:44",
+      "duration": "17:49",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/27/2018 10:25:34",
+      "duration": "15:11",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/28/2018 11:06:26",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/29/2018 20:35:08",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/30/2018 7:11:53",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "9/30/2018 17:04:55",
+      "duration": "9:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/1/2018 18:29:22",
+      "duration": "11:05",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/1/2018 19:12:42",
+      "duration": "0:40",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/2/2018 7:48:40",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/2/2018 18:43:15",
+      "duration": "9:51",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/3/2018 18:25:43",
+      "duration": "11:14",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/4/2018 6:50:28",
+      "duration": "10:10",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/4/2018 11:46:36",
+      "duration": "17:43",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/5/2018 18:55:59",
+      "duration": "13:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/6/2018 4:50:58",
+      "duration": "16:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/7/2018 19:25:16",
+      "duration": "16:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/8/2018 16:39:17",
+      "duration": "35:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/8/2018 21:45:33",
+      "duration": "29:31:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/9/2018 19:47:53",
+      "duration": "15:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/10/2018 21:17:30",
+      "duration": "6:02",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/11/2018 18:56:15",
+      "duration": "5:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/12/2018 19:48:52",
+      "duration": "13:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/13/2018 20:43:21",
+      "duration": "14:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/14/2018 20:29:57",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/15/2018 21:38:04",
+      "duration": "9:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/15/2018 21:48:17",
+      "duration": "2:26",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/16/2018 21:38:08",
+      "duration": "15:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/17/2018 22:23:51",
+      "duration": "14:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/18/2018 20:59:48",
+      "duration": "11:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/19/2018 20:06:22",
+      "duration": "10:10",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/19/2018 20:17:32",
+      "duration": "5:26",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/20/2018 19:56:06",
+      "duration": "16:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/21/2018 19:32:43",
+      "duration": "11:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/21/2018 19:44:22",
+      "duration": "5:31",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/22/2018 21:33:18",
+      "duration": "15:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/23/2018 21:00:10",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/24/2018 21:14:44",
+      "duration": "15:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/25/2018 19:50:29",
+      "duration": "9:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "10/26/2018 23:19:07",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/27/2018 22:35:47",
+      "duration": "15:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/28/2018 22:09:45",
+      "duration": "3:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/29/2018 21:45:07",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/30/2018 21:00:43",
+      "duration": "20:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "10/31/2018 21:15:36",
+      "duration": "7:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/1/2018 21:00:09",
+      "duration": "13:03",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/2/2018 20:12:32",
+      "duration": "15:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/3/2018 21:32:38",
+      "duration": "15:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/4/2018 21:13:31",
+      "duration": "10:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/5/2018 21:23:40",
+      "duration": "5:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/6/2018 20:46:05",
+      "duration": "8:01",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "11/7/2018 21:38:24",
+      "duration": "15:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/8/2018 21:39:31",
+      "duration": "8:42",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "11/9/2018 19:29:02",
+      "duration": "15:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/10/2018 19:22:58",
+      "duration": "12:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/11/2018 20:29:35",
+      "duration": "15:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/12/2018 22:47:09",
+      "duration": "10:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/13/2018 20:24:06",
+      "duration": "15:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/14/2018 20:49:28",
+      "duration": "25:44:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/15/2018 23:00:57",
+      "duration": "27:44:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/16/2018 18:24:23",
+      "duration": "27:16:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/17/2018 21:46:03",
+      "duration": "29:39:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/18/2018 22:39:32",
+      "duration": "10:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/19/2018 21:10:54",
+      "duration": "30:06:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/20/2018 23:14:11",
+      "duration": "35:45:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/21/2018 21:33:18",
+      "duration": "21:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/22/2018 21:52:31",
+      "duration": "6:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/23/2018 22:18:15",
+      "duration": "25:23:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/24/2018 23:48:39",
+      "duration": "21:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/25/2018 18:49:00",
+      "duration": "26:17:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/26/2018 18:29:31",
+      "duration": "0:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/26/2018 18:30:17",
+      "duration": "5:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/27/2018 21:11:31",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "11/28/2018 7:16:30",
+      "duration": "7:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/29/2018 22:47:55",
+      "duration": "6:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/29/2018 22:58:55",
+      "duration": "13:03",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "11/30/2018 20:21:09",
+      "duration": "10:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/1/2018 20:02:04",
+      "duration": "12:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/2/2018 21:51:29",
+      "duration": "11:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/3/2018 22:17:27",
+      "duration": "6:07",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/4/2018 22:00:49",
+      "duration": "8:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/5/2018 20:43:31",
+      "duration": "11:41",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/6/2018 21:28:39",
+      "duration": "16:14",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/7/2018 21:45:37",
+      "duration": "13:40",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/8/2018 21:56:57",
+      "duration": "14:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/9/2018 21:14:40",
+      "duration": "7:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/10/2018 22:46:58",
+      "duration": "7:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/11/2018 23:42:11",
+      "duration": "13:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/12/2018 23:04:37",
+      "duration": "13:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/13/2018 23:28:19",
+      "duration": "20:02",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/14/2018 23:49:50",
+      "duration": "3:05",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/15/2018 0:35:35",
+      "duration": "26:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/16/2018 18:00:06",
+      "duration": "26:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/16/2018 21:08:35",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/17/2018 21:13:25",
+      "duration": "24:02:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/18/2018 21:39:01",
+      "duration": "14:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/19/2018 19:12:38",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/20/2018 19:22:42",
+      "duration": "11:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/21/2018 18:56:50",
+      "duration": "12:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/22/2018 19:06:09",
+      "duration": "12:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/23/2018 18:50:51",
+      "duration": "8:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/24/2018 20:32:18",
+      "duration": "1:09",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/25/2018 20:00:13",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/26/2018 19:43:05",
+      "duration": "5:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/27/2018 20:42:51",
+      "duration": "13:28",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/28/2018 17:49:55",
+      "duration": "7:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/29/2018 18:37:15",
+      "duration": "0:07",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/29/2018 18:37:33",
+      "duration": "17:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "12/30/2018 20:47:46",
+      "duration": "17:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "12/31/2018 20:37:48",
+      "duration": "13:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "1/1/2019 23:15:27",
+      "duration": "17:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/2/2019 23:07:25",
+      "duration": "17:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/3/2019 23:22:26",
+      "duration": "17:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/4/2019 23:06:19",
+      "duration": "17:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "1/5/2019 20:56:36",
+      "duration": "17:04",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/6/2019 23:50:52",
+      "duration": "0:09",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/6/2019 23:51:02",
+      "duration": "0:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/7/2019 23:39:12",
+      "duration": "17:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/8/2019 22:52:02",
+      "duration": "1:51",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/8/2019 22:54:36",
+      "duration": "7:34",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/9/2019 21:59:19",
+      "duration": "17:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/10/2019 20:31:56",
+      "duration": "18:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/11/2019 23:44:16",
+      "duration": "3:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/12/2019 23:07:38",
+      "duration": "13:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/13/2019 22:11:41",
+      "duration": "5:57",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/14/2019 22:41:38",
+      "duration": "17:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/15/2019 21:32:20",
+      "duration": "14:14",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/16/2019 22:50:40",
+      "duration": "3:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/16/2019 22:54:39",
+      "duration": "7:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 21:58:13",
+      "duration": "1:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 21:59:50",
+      "duration": "0:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 22:04:41",
+      "duration": "0:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 22:08:06",
+      "duration": "0:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 22:09:04",
+      "duration": "2:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/17/2019 22:12:05",
+      "duration": "6:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/18/2019 23:19:11",
+      "duration": "11:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/19/2019 11:35:36",
+      "duration": "4:35",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "1/20/2019 23:12:23",
+      "duration": "17:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/21/2019 23:01:17",
+      "duration": "16:39",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/22/2019 22:32:46",
+      "duration": "0:52",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/22/2019 22:34:44",
+      "duration": "16:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/23/2019 22:52:15",
+      "duration": "17:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/23/2019 23:09:31",
+      "duration": "0:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/24/2019 23:01:25",
+      "duration": "16:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/25/2019 22:28:09",
+      "duration": "17:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/26/2019 21:53:04",
+      "duration": "17:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/27/2019 23:33:08",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "1/28/2019 22:34:43",
+      "duration": "17:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/29/2019 22:52:00",
+      "duration": "17:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/30/2019 21:07:22",
+      "duration": "17:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "1/31/2019 21:56:14",
+      "duration": "17:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/1/2019 23:44:49",
+      "duration": "0:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/1/2019 23:46:27",
+      "duration": "17:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/2/2019 22:42:15",
+      "duration": "17:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/3/2019 21:43:29",
+      "duration": "17:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/4/2019 21:54:26",
+      "duration": "17:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/5/2019 21:49:29",
+      "duration": "17:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/5/2019 22:10:38",
+      "duration": "6:10",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/6/2019 22:12:20",
+      "duration": "16:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/7/2019 18:13:02",
+      "duration": "27:54:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/8/2019 14:31:04",
+      "duration": "51:00:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/9/2019 21:52:29",
+      "duration": "13:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/10/2019 15:21:41",
+      "duration": "23:37",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/11/2019 13:54:17",
+      "duration": "15:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/12/2019 20:37:06",
+      "duration": "12:12",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/12/2019 20:49:36",
+      "duration": "16:28",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/12/2019 21:08:05",
+      "duration": "5:03",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/13/2019 22:07:00",
+      "duration": "15:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/14/2019 23:07:59",
+      "duration": "15:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/15/2019 22:55:29",
+      "duration": "15:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/16/2019 22:44:04",
+      "duration": "17:55",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/17/2019 19:53:42",
+      "duration": "9:42",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/18/2019 20:55:28",
+      "duration": "18:30",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/19/2019 22:31:03",
+      "duration": "15:09",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/20/2019 8:31:30",
+      "duration": "7:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/21/2019 22:15:12",
+      "duration": "14:26",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/22/2019 21:14:32",
+      "duration": "6:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/23/2019 22:24:20",
+      "duration": "5:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/24/2019 21:32:59",
+      "duration": "13:12",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/25/2019 21:46:02",
+      "duration": "9:29",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "2/26/2019 22:05:43",
+      "duration": "0:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/26/2019 22:06:06",
+      "duration": "15:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/27/2019 23:38:43",
+      "duration": "0:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/27/2019 23:39:21",
+      "duration": "5:39",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "2/28/2019 21:50:07",
+      "duration": "16:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/1/2019 22:33:41",
+      "duration": "5:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/2/2019 8:39:22",
+      "duration": "16:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/3/2019 20:17:10",
+      "duration": "15:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/4/2019 19:11:18",
+      "duration": "8:07",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/5/2019 22:01:18",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/6/2019 22:32:48",
+      "duration": "0:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/6/2019 22:33:18",
+      "duration": "3:41",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/7/2019 21:55:05",
+      "duration": "0:04",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/7/2019 22:03:31",
+      "duration": "0:39",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/7/2019 22:04:51",
+      "duration": "0:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/7/2019 22:05:16",
+      "duration": "6:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/8/2019 22:10:55",
+      "duration": "11:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/9/2019 23:23:04",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/10/2019 23:09:24",
+      "duration": "15:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/11/2019 22:35:24",
+      "duration": "4:52",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/12/2019 22:47:21",
+      "duration": "4:52",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/13/2019 21:36:48",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/14/2019 22:09:51",
+      "duration": "8:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/15/2019 21:58:06",
+      "duration": "9:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/16/2019 22:23:08",
+      "duration": "23:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/17/2019 22:24:48",
+      "duration": "10:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/18/2019 22:28:33",
+      "duration": "6:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/19/2019 23:23:12",
+      "duration": "0:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/19/2019 23:24:32",
+      "duration": "2:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/19/2019 23:27:21",
+      "duration": "5:14",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "3/20/2019 22:28:21",
+      "duration": "20:28",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "3/21/2019 21:41:01",
+      "duration": "7:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/22/2019 20:49:43",
+      "duration": "10:55",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/23/2019 22:03:17",
+      "duration": "4:48",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "3/24/2019 21:07:14",
+      "duration": "9:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/25/2019 21:25:39",
+      "duration": "9:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/26/2019 19:18:20",
+      "duration": "7:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/27/2019 23:08:07",
+      "duration": "0:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/27/2019 23:08:43",
+      "duration": "8:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/28/2019 23:22:09",
+      "duration": "9:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/29/2019 21:48:53",
+      "duration": "1:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/29/2019 21:51:21",
+      "duration": "1:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/29/2019 21:52:57",
+      "duration": "1:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/29/2019 21:57:08",
+      "duration": "7:22",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/30/2019 22:13:46",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "3/31/2019 21:03:50",
+      "duration": "21:09",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/1/2019 22:18:32",
+      "duration": "8:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/2/2019 21:44:49",
+      "duration": "0:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/2/2019 21:45:24",
+      "duration": "12:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/3/2019 21:19:30",
+      "duration": "14:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/4/2019 21:45:13",
+      "duration": "14:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/5/2019 22:35:30",
+      "duration": "10:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/6/2019 21:15:25",
+      "duration": "8:26",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/7/2019 20:48:49",
+      "duration": "8:09",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/8/2019 21:54:21",
+      "duration": "10:06",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/9/2019 21:50:47",
+      "duration": "7:26",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/10/2019 21:00:55",
+      "duration": "7:11",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/11/2019 22:48:31",
+      "duration": "10:07",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/12/2019 20:43:45",
+      "duration": "5:31",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/13/2019 20:43:45",
+      "duration": "4:50",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/14/2019 21:46:13",
+      "duration": "4:06",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/15/2019 20:47:32",
+      "duration": "5:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/16/2019 21:28:16",
+      "duration": "5:06",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/17/2019 21:42:52",
+      "duration": "7:03",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/18/2019 21:06:54",
+      "duration": "5:07",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/19/2019 22:09:09",
+      "duration": "5:07",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/20/2019 21:55:22",
+      "duration": "0:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/20/2019 21:56:36",
+      "duration": "7:03",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/21/2019 21:10:32",
+      "duration": "6:24",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/22/2019 21:55:21",
+      "duration": "5:15",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "4/23/2019 21:07:07",
+      "duration": "10:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/24/2019 21:53:56",
+      "duration": "8:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/25/2019 21:57:32",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/26/2019 22:29:53",
+      "duration": "7:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/27/2019 23:29:46",
+      "duration": "5:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/28/2019 21:08:30",
+      "duration": "0:33",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/28/2019 21:09:20",
+      "duration": "9:52",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/28/2019 21:20:31",
+      "duration": "0:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/29/2019 23:17:29",
+      "duration": "1:46",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "4/30/2019 21:37:20",
+      "duration": "2:43",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/1/2019 22:14:52",
+      "duration": "13:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/2/2019 22:15:56",
+      "duration": "0:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/2/2019 22:16:53",
+      "duration": "10:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/3/2019 22:22:44",
+      "duration": "11:42",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/4/2019 22:40:25",
+      "duration": "7:54",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/5/2019 22:48:31",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/6/2019 10:51:19",
+      "duration": "8:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/7/2019 17:31:23",
+      "duration": "6:54",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/8/2019 20:48:48",
+      "duration": "9:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/9/2019 21:35:04",
+      "duration": "9:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/10/2019 22:02:50",
+      "duration": "4:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/11/2019 21:36:43",
+      "duration": "16:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/12/2019 21:32:03",
+      "duration": "17:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/13/2019 21:42:50",
+      "duration": "4:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/14/2019 21:20:45",
+      "duration": "0:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/14/2019 21:21:33",
+      "duration": "8:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/15/2019 21:01:14",
+      "duration": "7:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/16/2019 21:04:15",
+      "duration": "0:26",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/16/2019 21:05:25",
+      "duration": "19:59",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/17/2019 21:19:49",
+      "duration": "7:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/18/2019 14:13:53",
+      "duration": "7:46",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/19/2019 21:54:08",
+      "duration": "12:34",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/20/2019 21:19:04",
+      "duration": "11:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/21/2019 20:29:12",
+      "duration": "0:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/21/2019 20:30:40",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/21/2019 21:35:30",
+      "duration": "4:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/22/2019 22:13:22",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/23/2019 22:36:44",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/24/2019 20:04:47",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/25/2019 22:07:11",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/26/2019 21:41:14",
+      "duration": "10:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/27/2019 13:12:02",
+      "duration": "15:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/28/2019 21:01:07",
+      "duration": "8:33",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/29/2019 21:15:24",
+      "duration": "9:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "5/30/2019 21:53:39",
+      "duration": "10:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "5/31/2019 20:56:06",
+      "duration": "14:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/1/2019 21:55:33",
+      "duration": "7:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/2/2019 22:21:36",
+      "duration": "8:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/3/2019 22:18:11",
+      "duration": "7:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/4/2019 21:26:56",
+      "duration": "10:05",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "6/5/2019 22:22:48",
+      "duration": "12:20",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/6/2019 22:04:21",
+      "duration": "9:09",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/7/2019 21:36:03",
+      "duration": "2:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/7/2019 21:38:39",
+      "duration": "4:57",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/8/2019 21:59:33",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/9/2019 22:29:46",
+      "duration": "5:44",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/10/2019 22:05:23",
+      "duration": "4:40",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/11/2019 21:46:52",
+      "duration": "8:15",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/12/2019 21:56:34",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/13/2019 19:31:13",
+      "duration": "9:41",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/14/2019 23:18:33",
+      "duration": "1:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/14/2019 23:20:29",
+      "duration": "0:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/14/2019 23:21:24",
+      "duration": "4:28",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/15/2019 21:28:14",
+      "duration": "4:56",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/16/2019 21:16:41",
+      "duration": "8:28",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/17/2019 20:58:43",
+      "duration": "9:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/18/2019 21:26:27",
+      "duration": "5:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/19/2019 23:08:27",
+      "duration": "4:37",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/20/2019 6:20:35",
+      "duration": "13:06",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/21/2019 21:40:26",
+      "duration": "7:29",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/22/2019 21:11:21",
+      "duration": "5:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/23/2019 22:18:57",
+      "duration": "10:32",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/24/2019 23:19:32",
+      "duration": "8:30",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/25/2019 22:25:51",
+      "duration": "9:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/26/2019 21:42:06",
+      "duration": "10:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/27/2019 22:33:01",
+      "duration": "7:36",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/28/2019 22:14:14",
+      "duration": "10:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/29/2019 23:47:21",
+      "duration": "6:25",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/30/2019 21:08:04",
+      "duration": "0:13",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "6/30/2019 21:08:44",
+      "duration": "11:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/1/2019 22:55:23",
+      "duration": "13:09",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/2/2019 22:11:17",
+      "duration": "0:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/2/2019 22:11:56",
+      "duration": "14:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/3/2019 22:32:53",
+      "duration": "4:23",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/4/2019 22:21:37",
+      "duration": "0:21",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/4/2019 22:23:17",
+      "duration": "10:50",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/5/2019 21:54:40",
+      "duration": "5:31",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/6/2019 20:59:14",
+      "duration": "8:55",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/7/2019 21:11:25",
+      "duration": "4:38",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/8/2019 21:32:38",
+      "duration": "4:48",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/9/2019 22:13:58",
+      "duration": "7:49",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/10/2019 21:19:01",
+      "duration": "0:26",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/10/2019 21:20:17",
+      "duration": "6:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/11/2019 21:55:15",
+      "duration": "25:31:00",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/12/2019 23:02:06",
+      "duration": "4:04",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/13/2019 22:40:28",
+      "duration": "10:05",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/14/2019 20:29:06",
+      "duration": "0:04",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/14/2019 20:29:21",
+      "duration": "11:02",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/15/2019 22:37:57",
+      "duration": "5:47",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/16/2019 21:39:29",
+      "duration": "9:45",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/17/2019 23:10:14",
+      "duration": "9:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/18/2019 22:36:40",
+      "duration": "20:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/19/2019 23:03:39",
+      "duration": "3:42",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/20/2019 21:52:49",
+      "duration": "13:14",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/21/2019 21:49:13",
+      "duration": "20:01",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/22/2019 22:02:03",
+      "duration": "3:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/23/2019 20:40:40",
+      "duration": "0:57",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/23/2019 20:41:58",
+      "duration": "1:27",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/23/2019 20:46:28",
+      "duration": "8:53",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/24/2019 22:16:55",
+      "duration": "4:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/25/2019 19:53:27",
+      "duration": "15:17",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/26/2019 21:41:00",
+      "duration": "5:00",
+      "guided": "FALSE"
+    },
+    {
+      "startedAt": "7/27/2019 21:32:23",
+      "duration": "8:16",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/28/2019 22:44:03",
+      "duration": "7:19",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/29/2019 22:32:00",
+      "duration": "14:07",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/30/2019 21:18:10",
+      "duration": "10:18",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/31/2019 21:47:47",
+      "duration": "0:54",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "7/31/2019 21:50:51",
+      "duration": "9:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/1/2019 20:45:37",
+      "duration": "6:11",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/2/2019 21:59:49",
+      "duration": "12:58",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/3/2019 21:05:18",
+      "duration": "8:08",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/4/2019 22:11:12",
+      "duration": "1:48",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/4/2019 22:18:29",
+      "duration": "5:35",
+      "guided": "TRUE"
+    },
+    {
+      "startedAt": "8/5/2019 21:31:47",
+      "duration": "4:10",
+      "guided": "TRUE"
+    }
+  ]
+}

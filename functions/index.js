@@ -19,6 +19,8 @@ const db = admin.firestore()
 app.get('/getSessions', (req, res) => {
   db
     .collection('sessions')
+    .orderBy('startedAt', 'desc')
+    .limit(30)
     .get()
     .then(data => {
       let sessions = []
